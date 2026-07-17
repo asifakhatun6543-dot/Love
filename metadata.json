@@ -1,0 +1,6 @@
+{
+  "name": "HeartSync",
+  "description": "AI-powered Proximity Matchmaking & Anonymous Attraction Discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
